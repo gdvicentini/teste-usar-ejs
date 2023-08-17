@@ -1,0 +1,16 @@
+h1 {
+    color: black;
+
+}
+
+body {
+    background-color: rgb(138, 163, 245);
+}
+
+.resize-img {
+    width: 5%;
+}
+
+#formulario-pergunta {
+    margin-top: 5vh;
+}
